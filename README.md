@@ -26,5 +26,5 @@ Airbnb Seattle article.ipynb contains the analysis, visaulisations, the models a
 The result is presented in the following Medium article. 
 
 # Licensing, Authors, Acknowledgements<a name="licensing"></a>
-Data Source can be acquired from [Kaggle](https://www.kaggle.com/airbnb/seattle
+Data Source can be acquired from [Kaggle](https://www.kaggle.com/airbnb/seattle)
 
