@@ -18,3 +18,13 @@ Q2: How price and rating relate with each other?
 Q3: What’s the factor that drives higher prices?
 
 # File Descriptions<a name="files"></a>
+The project consists of two files, one dataset file and one jupyter notebook file: 
+listings.csv contains the Airbnb Seattle dataset
+Airbnb Seattle article.ipynb contains the analysis, visaulisations, the models and the conclusion. 
+
+# Result<a name="results"></a>
+The result is presented in the following Medium article. 
+
+# Licensing, Authors, Acknowledgements<a name="licensing"></a>
+Data Source can be acquired from [Kaggle](https://www.kaggle.com/airbnb/seattle
+
