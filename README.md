@@ -23,7 +23,7 @@ listings.csv contains the Airbnb Seattle dataset
 Airbnb Seattle article.ipynb contains the analysis, visaulisations, the models and the conclusion. 
 
 # Result<a name="results"></a>
-The result is presented in the following Medium article. 
+The result is presented in the following Medium [article](https://medium.com/@middlebergm/using-linear-regression-seattle-airbnb-data-68d7049fe77a) . 
 
 # Licensing, Authors, Acknowledgements<a name="licensing"></a>
 Data Source can be acquired from [Kaggle](https://www.kaggle.com/airbnb/seattle)
